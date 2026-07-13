@@ -1,0 +1,8 @@
+baseURL = 'https://www.nejiman10.cc/'
+locale = 'ja-jp'
+title = 'ねじラボ'
+theme = "hugo-xmin"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
